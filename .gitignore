@@ -127,3 +127,37 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/rawReads.csv
+data/betterCondensedDistance.csv
+data/magicOutput/magicWithoutNormalization1.csv
+data/magicOutput/magicWithNormalization13.csv
+data/magicOutput/magicWithNormalization9.csv
+data/magicOutput/magicWithoutNormalization7.csv
+data/magicOutput/magicWithoutNormalization3.csv
+data/magicOutput/magicWithNormalization3.csv
+data/magicOutput/magicWithNormalization19.csv
+data/magicOutput/magicWithNormalization17.csv
+data/magicOutput/magicWithoutNormalization5.csv
+data/magicOutput/magicWithNormalization7.csv
+data/magicOutput/magicWithoutNormalization11.csv
+data/magicOutput/magicWithNormalization11.csv
+data/magicOutput/magicWithNormalization15.csv
+data/magicOutput/magicWithNormalization1.csv
+data/magicOutput/magicWithNormalization5.csv
+data/magicOutput/magicWithoutNormalization9.csv
+data/magicOutput/magicWithoutNormalization13.csv
+data/rawReadsWithUnexpressedGenes.csv
+data/distanceMatrix.csv
+data/rawReadsWithCellNames.csv
+data/squareformDistance.csv
+data/Normalized scRNA Data Output/magicWithNormalization.csv
+data/Normalized scRNA Data Output/transposedEset.csv
+data/Normalized scRNA Data Output/magicWithoutNormalization.csv
+data/condensedCompleteDistMatrix.csv
+data/IL1_squareform_distance.csv
+data/smallMatGeneNames.csv
+data/IL1_squareform.csv
+data/IL1_squareform2.csv
+data/smallDistanceMatrix.csv
+.git/objects/pack/pack-bdf38bf1ed012a1587080d90acbc2f636409d612.pack
+.git/objects/pack/tmp_pack_nzlGCN
