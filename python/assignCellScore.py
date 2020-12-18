@@ -22,4 +22,3 @@ for j in range(16):
     cellScore['cluster' + str(j)] = scores
 
 cellScore.to_csv('wardClusters/wardCellBinScore.csv')
-# exec(open('python/sendEmail.py').read())
