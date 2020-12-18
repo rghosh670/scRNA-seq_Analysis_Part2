@@ -127,6 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large files
 data/rawReads.csv
 data/betterCondensedDistance.csv
 data/magicOutput/magicWithoutNormalization1.csv
