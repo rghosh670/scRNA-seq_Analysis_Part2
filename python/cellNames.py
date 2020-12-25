@@ -58,7 +58,7 @@ def __switch(argument):
 
 def getCellName(index):
     if 'names' not in globals():
-        f = open('/home/rohit/Desktop/Embryo_scRNA_Analysis-master/data/namesOfNeuronalCells.txt', 'r')
+        f = open('data/namesOfNeuronalCells.txt', 'r')
         global names
         names = f.read().splitlines()
         f.close()

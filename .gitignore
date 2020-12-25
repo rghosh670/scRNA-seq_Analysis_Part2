@@ -166,3 +166,5 @@ git/objects/pack/tmp_pack_nzlGCN
 git/lfs/objects/f6/04/f604186388026b55a35a2edc82c0a67f796fb332b200fcde91233123942c59be
 data/rawReadsWithCellNames.csv
 data/rawReads.csv
+git/lfs/objects/f6/04/f604186388026b55a35a2edc82c0a67f796fb332b200fcde91233123942c59be
+data/transposedRawReadsWithCellNames.csv
