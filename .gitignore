@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # large files
-data/rawReads.csv
 data/betterCondensedDistance.csv
 data/magicOutput/magicWithoutNormalization1.csv
 data/magicOutput/magicWithNormalization13.csv
@@ -161,10 +160,6 @@ data/smallMatGeneNames.csv
 data/IL1_squareform.csv
 data/IL1_squareform2.csv
 data/smallDistanceMatrix.csv
-git/objects/pack/pack-bdf38bf1ed012a1587080d90acbc2f636409d612.pack
-git/objects/pack/tmp_pack_nzlGCN
-git/lfs/objects/f6/04/f604186388026b55a35a2edc82c0a67f796fb332b200fcde91233123942c59be
 data/rawReadsWithCellNames.csv
 data/rawReads.csv
-git/lfs/objects/f6/04/f604186388026b55a35a2edc82c0a67f796fb332b200fcde91233123942c59be
 data/transposedRawReadsWithCellNames.csv
